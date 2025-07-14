@@ -2,7 +2,6 @@
 #include <vector>
 #include <random>
 #include <immintrin.h> 
-#include "compiler_config.h"
 #include <fstream>
 #include <string>
 #include <chrono>
