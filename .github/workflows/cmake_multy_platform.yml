@@ -82,7 +82,7 @@ jobs:
             executable_name="${{ matrix.build_type }}/Register_Usage_Opt.exe"
             analysis_file="analysis/assembly.txt"
           else
-            executable_name="Vectorization"
+            executable_name="Register_Usage_Opt"
             analysis_file="analysis/assembly.txt"
           fi
 
